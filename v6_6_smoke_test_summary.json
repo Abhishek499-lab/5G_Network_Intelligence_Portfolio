@@ -1,0 +1,13 @@
+{
+  "session_file": "smoke_test_original_format.csv",
+  "valid_rows_scored": 622,
+  "mean_current_downlink_mbps": 0.8125546623794212,
+  "mean_forecast_5s_mbps": 0.8461984592729646,
+  "mean_forecast_15s_mbps": 0.8788317215236445,
+  "max_risk_score": 0.9369743866384096,
+  "rows_above_threshold": 202,
+  "confirmed_alert_episodes": 12,
+  "risk_score_is_calibrated_probability": false,
+  "data_mode": "Offline uploaded CSV",
+  "root_cause_status": "KPI hypotheses only; no operator-confirmed cause"
+}

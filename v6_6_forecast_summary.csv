@@ -1,0 +1,3 @@
+horizon_s,n_rows,n_sessions,model_MAE_Mbps,persistence_MAE_Mbps,MAE_improvement_pct,model_RMSE_Mbps,persistence_RMSE_Mbps,model_R2,negative_raw_prediction_count,evaluation_partition
+5,38692,21,10.406757085666259,12.789612400496226,18.631176928688745,27.96221400376124,39.651295537083996,0.5343232536357878,528,previously inspected development sessions
+15,38431,21,12.025685778688585,13.264713460487627,9.34077984790102,31.65811786267686,39.607733102512526,0.4113334735020915,475,previously inspected development sessions

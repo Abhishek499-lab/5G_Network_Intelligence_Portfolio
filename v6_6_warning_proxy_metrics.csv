@@ -1,0 +1,2 @@
+n_rows,n_sessions,proxy_prevalence,ROC_AUC,PR_AUC_average_precision,Brier_score,precision_at_050,recall_at_050,F1_at_050,balanced_accuracy_at_050,threshold,score_calibrated_probability,label_type
+34928,21,0.09717132386623913,0.8643185602549861,0.43220138034403993,0.11191456771116653,0.36592865928659285,0.7012374779021803,0.4809052333804809,0.785229000890584,0.5,False,KPI-derived proxy; not operator-confirmed incidents
