@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+# Do not commit the original source dataset unless its license explicitly permits redistribution.
+5G-production-dataset.zip
+# Optional: large raw intermediate prediction tables
+*_forecast_predictions_full.csv
